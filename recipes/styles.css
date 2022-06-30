@@ -1,0 +1,11 @@
+p {
+    color: aqua;
+    background-color: black;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+li {
+    color: greenyellow;
+    background-color: darkblue;
+}

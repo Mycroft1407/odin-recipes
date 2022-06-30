@@ -1,0 +1,15 @@
+h1 {
+    background-color: aquamarine;
+    color: red;
+}
+
+li {
+    color: aquamarine;
+}
+
+p {
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    color: aqua;
+    background-color: black;
+}
